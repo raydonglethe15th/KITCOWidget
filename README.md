@@ -4,8 +4,8 @@ A modern WPF desktop widget that displays live gold and silver price charts usin
 
 📌 Overview
 
-KITCO Metals Widget is a lightweight Windows desktop application built with WPF (.NET) that provides quick access to live gold and silver price charts. Designed as a compact, always‑available widget, it blends a modern dark aesthetic with gold/silver color coding for clarity and visual appeal.
-The app is optimized for minimal screen footprint, fast loading, and a polished user experience — including snap‑to‑edge behavior, a system tray icon, and a custom‑designed .ico file.
+KITCO Metals Widget is a lightweight Windows desktop application built with WPF (.NET) that provides quick access to live gold and silver price charts. Designed as a compact, always‑available widget.
+The app is optimized for minimal screen footprint and fast loading.
 
 ✨ Features
 
