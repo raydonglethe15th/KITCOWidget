@@ -1,6 +1,6 @@
 🪙 KITCO Metals Widget
 
-A modern WPF desktop widget that displays live gold and silver price charts using a clean dark UI, metallic accents, and a custom dual‑coin icon inspired by the Canadian Gold Maple Leaf and the American Silver Eagle.
+A modern WPF desktop widget that displays live gold and silver price charts using a clean dark UI.
 
 📌 Overview
 
